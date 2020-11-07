@@ -1,0 +1,30 @@
+body{
+    height: 100vh;
+    padding: 0px;
+    margin: 0px;
+    background:yellow;
+    
+}
+header{
+    width: 784px;
+    height: 200px;
+    background-color: rgb(206, 191, 174);
+}
+.menu{
+    width: 200px;
+    background-color: yellow;
+    float: left;
+    height:auto;
+}
+.content{
+    background-color: rgb(230, 170, 212);
+    width: 584px;
+    height: auto;
+    margin-left: 200px;
+    
+}
+footer{
+    background-color: rgb(160, 87, 170);
+    height: 100px;
+    width: 784PX;
+}
