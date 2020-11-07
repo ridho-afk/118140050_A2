@@ -10,7 +10,7 @@ header{
     height: 200px;
     background-color: rgb(206, 191, 174);
 }
-.menu{
+#menu{
     width: 200px;
     background-color: yellow;
     float: left;
