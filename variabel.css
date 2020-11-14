@@ -1,0 +1,39 @@
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.sidebar {
+  float: left;
+  height: auto;
+  width: 300px;
+  background-color: #f1f1f1;
+  padding-top: 10px;
+  padding-bottom: 300px;
+}
+
+li {
+  float: right;
+  margin-right: 20px;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #5fdfff;
+}
+
+/*# sourceMappingURL=variabel.css.map */

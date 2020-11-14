@@ -1,0 +1,47 @@
+$mycolour : rgb(95,223,255);
+$bgcolour : #333;
+$number1:20px;
+$align1:center;
+
+.navbar{
+    ul{
+        list-style-type:none;
+        margin:0;
+        padding:0;
+        overflow:hidden;
+        background-color: $bgcolour;
+        margin: {
+            top:20px;
+            bottom: 20px;
+            left: 0;
+            right: 0;
+        }
+    }
+}
+.sidebar{
+    float:left;
+    height: auto;
+    width:300px;
+    background-color: #f1f1f1;
+    padding: {
+        top:10px;
+        bottom:300px;
+    }
+}
+
+li{
+    float: right;
+    margin-right: $number1;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: $align1;
+    padding: 14px $number1;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: $mycolour;
+}
