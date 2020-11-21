@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mahasiswa</title>
+    </head>
+    <body>
+        <h1>Tambah Data</h1>
+        <form action="prosesTambah2.php" method="POST" >
+            NRP : <input type="text" name="NRP" size="35" maxlength="50"><br>
+            Nama : <input type="text" name="NAMA" size="35" maxlength="50"><br>
+            Alamat : <textarea name="Alamat" rows="5" cols="30"></textarea><br>
+            Jurusan : <select name="jurusan">
+                <option value="IF">Teknik Informatika</option>
+                <option value="PWK">PWK</option>
+                <option value="AR">Arsitektur</option>
+            </select><br>
+            <input type="submit" value="Simpan">
+            <input type="reset" value="Reset">
+        </form>
+    </body>
+</html>
