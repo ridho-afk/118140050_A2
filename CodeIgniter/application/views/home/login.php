@@ -9,8 +9,10 @@
     body {
       background-image: url(https://i.pinimg.com/originals/47/0a/19/470a19a36904fe200610cc1f41eb00d9.jpg );
       
+        padding-top: 280px;
         background-size: cover; 
-        font color : white;
+        text-align: center;
+        
         
     }
     </style>
