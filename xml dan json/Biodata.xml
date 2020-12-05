@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Biodata>
+    <Nama>
+        <NamaDepan>Ridho</NamaDepan>
+        <NamaBelakang>Akbar Syah</NamaBelakang>
+    </Nama>
+
+    <NIM>118140050</NIM>
+    
+    <JenisKelamin>Laki-laki</JenisKelamin>
+
+    <Usia>20</Usia>
+
+    <Saudara>Dua</Saudara>
+
+    <Hobby>Main Game</Hobby>
+
+    <Alamat>
+        <Desa>WayKandis</Desa>
+        <Kecamatan>Tanjung Seneng</Kecamatan>
+        <Kabupaten>Bandar Lampung</Kabupaten>
+    </Alamat>
+
+    <SocialMedia>
+        <Instagram>ridhoakbars</Instagram>
+    </SocialMedia>
+</Biodata>
